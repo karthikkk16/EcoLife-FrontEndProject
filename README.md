@@ -1,1 +1,0 @@
-# EcoLife-FrontEndProject
